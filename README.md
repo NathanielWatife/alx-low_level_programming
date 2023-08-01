@@ -1,1 +1,1 @@
-0x02-functions_nested_loops reame file
+0x07-pointers_arrays_strings
