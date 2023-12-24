@@ -1,9 +1,9 @@
-#ifdef _M_H_
-#define _M_H_
+#ifndef __M_H__
+#define __M_H__
 
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 
-void print_school(void):
+void print_school(void);
 
 #endif
